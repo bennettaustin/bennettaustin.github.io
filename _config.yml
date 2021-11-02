@@ -81,40 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Bennett Austin"
-  avatar           : "profile.png"
+  avatar           : "senior_pic.jpeg"
   bio              : "Math Student at the University of California, Berkeley"
   location         : "Berkeley, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  email            : "bennettaustin10@berkeley.edu"
   github           : "bennettaustin"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
   youtube          :
-  wikipedia        :
 
 
 # Reading Files
