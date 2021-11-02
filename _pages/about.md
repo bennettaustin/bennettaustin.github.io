@@ -10,5 +10,5 @@ redirect_from:
 
 I am Bennett Austin, a third year mathematics student at Berkeley. I am originally from the Metro-Detroit area in Michigan
 
-A data-driven personal website
+On this website you can find information about my studies, research, projects, and hobbies.
 ======
