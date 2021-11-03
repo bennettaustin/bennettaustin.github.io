@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
 # 1. Animating the Mandelbrot Set
 
 # 2. RSA Cryptopgraphy
