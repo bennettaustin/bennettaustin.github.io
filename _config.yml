@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Bennett Austin"
-  avatar           : "bennettaustin/bennettaustin.github.io/images/senior_pic.jpeg"
+  avatar           : "bennettaustin/bennettaustin.github.io/images/senior_pic.png"
   bio              : "Math Student at the University of California, Berkeley"
   location         : "Berkeley, CA"
   employer         :
@@ -159,17 +159,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -180,7 +169,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: research
     values:
       layout: single
       author_profile: true
@@ -189,7 +178,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: projects
     values:
       layout: single
       author_profile: true
@@ -198,20 +187,12 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: music
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
