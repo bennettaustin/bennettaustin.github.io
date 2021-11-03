@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+![SF Bay](Images/sf_bay.png)
+
+
 I am Bennett Austin, a third year mathematics student at [Berkeley](math.berkeley.edu). I am originally from the Metro-Detroit area in Michigan. 
 On this website you can find information about my research, projects, courses, and music. 
 
