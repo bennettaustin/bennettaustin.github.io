@@ -15,7 +15,7 @@ In order to figure out a way to improve charm tagging, I first studied the Higgs
 <p float="left">
   <img width="300" alt="Higgs_mass" src="https://user-images.githubusercontent.com/93623304/140403859-2a254b7c-a7a0-4cad-b41a-38ed45d6cacb.png" />
   <img width="300" alt="higgs_mass_atlas" src="https://user-images.githubusercontent.com/93623304/140403948-e9e8d587-385f-42d7-95fd-866819d45fe6.png" />
-  <img width="300" alt="dl1_score" src="https://user-images.githubusercontent.com/93623304/140404379-333fb703-cc79-4fb7-b4d6-e90cb6a24b81.png" />
+  <img width="300" alt="dl1_score" src="https://user-images.githubusercontent.com/93623304/140427861-241dd207-788a-4dbc-86c7-f308be4a7042.png" />
 </p>
 
 The next step was to plot several different variables used in the DL1 algorithm to identify which are potentially highly influential in charm tagging. The DL1 algorithm actually takes in as input variables from other algorithms, known as JetFitter and SV1, which can be read about in the above paper. I studeid most of the variables in these two algorithms their plots can be seen one of my talks located [here]().
