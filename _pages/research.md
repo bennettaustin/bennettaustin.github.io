@@ -13,8 +13,8 @@ Motivation for such research comes from the recently discovered Higgs-boson, an 
 In order to figure out a way to improve charm tagging, I first studied the Higgs-boson itself and its coupling into charm quarks. My first task was to reconstruct the Higgs-boson mass distribution using charm quark decays. The mass in plotted below; the blue line plots the Higgs mass based on all charm quarks while the red line plots the Higgs mass based only on the charm quarks that have been correctly identified as charm quarks by the DL1 algorithm. As seen, there are about 3,500 entries (events) with all charm quarks, whereas there are only about 250 events with correctly classified charm quarks. Hence, not only does this plot show the Higgs-boson mass, but it also highlights the inefficiency of the algorithm with respect to charm quarks. For reference, the official ATLAS Higgs mass distribution plot is also located below. 
 
 <p float="left">
-  <img width="320" alt="Higgs_mass" src="https://user-images.githubusercontent.com/93623304/140402363-da22d0d5-c316-4893-8c1a-343dd7bdcf93.png" />
-  <img width="320" alt="higgs_mass_atlas" src="https://user-images.githubusercontent.com/93623304/140403415-b695cf5e-24f9-4205-8c51-d4cfb558f719.png" />
+  <img width="400" alt="Higgs_mass" src="https://user-images.githubusercontent.com/93623304/140403859-2a254b7c-a7a0-4cad-b41a-38ed45d6cacb.png" />
+  <img width="400" alt="higgs_mass_atlas" src="https://user-images.githubusercontent.com/93623304/140403948-e9e8d587-385f-42d7-95fd-866819d45fe6.png" />
 </p>
 
 The next step was to plot several different variables used in the DL1 algorithm to identify which are potentially highly influential in charm tagging. The DL1 algorithm actually takes in as input variables from other algorithms, known as JetFitter and SV1, which can be read about in the above paper. I studeid most of the variables in these two algorithms their plots can be seen one of my talks located [here]().
