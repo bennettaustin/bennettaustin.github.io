@@ -19,7 +19,7 @@ In order to figure out a way to improve charm tagging, I first studied the Higgs
   <img width="318" alt="dl1_score" src="https://user-images.githubusercontent.com/93623304/140428258-a45c2478-f9af-4931-9706-74af2e495200.png">
 </p>
 
-The next step was to plot several different variables used in the DL1 algorithm to identify which are potentially highly influential in charm tagging. The DL1 algorithm actually takes in as input variables from other algorithms, known as JetFitter and SV1, which can be read about in the above paper. I studeid most of the variables in these two algorithms their plots can be seen one of my talks located [here]().
+The next step was to plot several different variables used in the DL1 algorithm to identify which are potentially highly influential in charm tagging. The DL1 algorithm actually takes in as input variables from other algorithms, known as JetFitter and SV1, which can be read about in the above paper. I studied most of the variables in these two algorithms their plots can be seen in one of my talks located [here](http://bennettaustin.github.io/files/Charm_tagging_presentation.pdf).
 
 
 After studying the JetFitter and SV1 variables directly, we decided to look into leptonic variables, where "lepton" refers to an electron or muon. 
