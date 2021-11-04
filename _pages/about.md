@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-![SF Bay](https://github.com/bennettaustin/bennettaustin.github.io/blob/master/images/sf_bay.png)
+![sf_bay](https://user-images.githubusercontent.com/93623304/140428339-090e24fa-ba55-49ab-9901-5a995264a205.png)
 
 
 I am Bennett Austin, a third year mathematics student at [Berkeley](https://math.berkeley.edu/). I am originally from the Metro-Detroit area in Michigan. 
