@@ -23,4 +23,4 @@ samples of the music I play and have written. I use Garageband to produce the mu
 ## Original Live Improvised Jam
 
 ## Echoes - Pink Floyd Live Improvised Jam
-[<img width="1101" alt="echoes_thumbnail" src="https://user-images.githubusercontent.com/93623304/140574256-9603b972-1769-4329-aa10-24edadff6a6e.png">](https://www.youtube.com/watch?v=77H_VFMou3U&ab_channel=BennettAustin)
+[<img width="500" alt="echoes_thumbnail" src="https://user-images.githubusercontent.com/93623304/140574256-9603b972-1769-4329-aa10-24edadff6a6e.png">](https://www.youtube.com/watch?v=77H_VFMou3U&ab_channel=BennettAustin)
