@@ -18,10 +18,10 @@ samples of the music I play and have written. I use Garageband to produce the mu
 
 [Song 1](https://user-images.githubusercontent.com/93623304/140575978-469ff94d-e9b5-4719-83b1-7764485b61a5.mp4)
 
-Guitar: Christian Austin. 
-Bass: Bennett Austin. 
-Drums: Christian Austin. 
-Synthesizer: Bennett Austin. 
+Guitar: Christian Austin<br/>
+Bass: Bennett Austin<br/>
+Drums: Christian Austin<br/>
+Synthesizer: Bennett Austin<br/>
 
 Written by Bennett and Christian Austin
 
@@ -33,15 +33,22 @@ Written by Bennett and Christian Austin
 
 [Live Jam](https://user-images.githubusercontent.com/93623304/140576939-966ec358-541a-463c-a918-754621744317.mp4)
 
-Guitar: Christian Austin. 
-Bass: Christian Austin (overdubbed). 
-Drums: Reece Austin. 
-Electric Piano: Bennett Austin. 
-Organ: Bennett Austin. 
+Guitar: Christian Austin<br/>
+Bass: Christian Austin (overdubbed)<br/>
+Drums: Reece Austin<br/>
+Electric Piano: Bennett Austin<br/>
+Organ: Bennett Austin<br/>
 
-Written by Bennett, Christian, and Reece Austin. 
+Written by Bennett, Christian, and Reece Austin
 
 ## Echoes - Pink Floyd Live Improvised Jam
 <p align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/77H_VFMou3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+Guitar: Christian Austin (overdubbed)<br/>
+Bass: Christian Austin<br/>
+Drums: Reece Austin<br/>
+Organs: Bennett Austin<br/>
+
+Written by Bennett, Christian, and Reece Austin
