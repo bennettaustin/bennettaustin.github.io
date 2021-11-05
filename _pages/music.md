@@ -11,7 +11,7 @@ samples of the music I play and have written. I use Garageband to produce the mu
 
 ## Our Basement Studio
 <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/93623304/140553083-47784a00-a9e0-4e13-91c1-ecfec21c87c2.png" />
+  <img width="350" src="https://user-images.githubusercontent.com/93623304/140553083-47784a00-a9e0-4e13-91c1-ecfec21c87c2.png" />
 </p>
 
 ## Original Song 1
@@ -23,4 +23,6 @@ samples of the music I play and have written. I use Garageband to produce the mu
 ## Original Live Improvised Jam
 
 ## Echoes - Pink Floyd Live Improvised Jam
-<iframe width="560" height="315" src="https://www.youtube.com/embed/77H_VFMou3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/77H_VFMou3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
