@@ -43,4 +43,4 @@ print(RSAEncrypt(message, key_pub()))
 
 ```
 
-## Factoring the Product of Large Primes
+## Factoring the Product of Two Large Primes
