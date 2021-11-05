@@ -10,8 +10,9 @@ bass, guitar, and drums. My brothers and I have written many songs ranging from 
 samples of the music I play and have written. I use Garageband to produce the music.
 
 ## Image of Our Basement Studio
-![studio](https://user-images.githubusercontent.com/93623304/140552940-2d55c999-8878-4ca3-8468-52808da347e1.png)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/93623304/140553083-47784a00-a9e0-4e13-91c1-ecfec21c87c2.png" />
+</p>
 
 ## Original Song 1
 
