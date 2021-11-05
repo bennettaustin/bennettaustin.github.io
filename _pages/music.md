@@ -16,6 +16,9 @@ samples of the music I play and have written. I use Garageband to produce the mu
 
 ## Original Song 1
 
+https://user-images.githubusercontent.com/93623304/140575978-469ff94d-e9b5-4719-83b1-7764485b61a5.mp4
+
+
 ## Original Song 2
 
 ## Original Song 3
