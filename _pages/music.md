@@ -11,7 +11,7 @@ samples of the music I play and have written. I use Garageband to produce the mu
 
 ## Our Basement Studio
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/93623304/140553083-47784a00-a9e0-4e13-91c1-ecfec21c87c2.png" />
+  <img width="400" src="https://user-images.githubusercontent.com/93623304/140553083-47784a00-a9e0-4e13-91c1-ecfec21c87c2.png" />
 </p>
 
 ## Original Song 1
