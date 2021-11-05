@@ -18,12 +18,28 @@ samples of the music I play and have written. I use Garageband to produce the mu
 
 [Song 1](https://user-images.githubusercontent.com/93623304/140575978-469ff94d-e9b5-4719-83b1-7764485b61a5.mp4)
 
+Guitar: Christian Austin
+Bass: Bennett Austin
+Drums: Christian Austin
+Synthesizer: Bennett Austin
+
+Written by Bennett and Christian Austin
 
 ## Original Song 2
 
 ## Original Song 3
 
 ## Original Live Improvised Jam
+
+[Live Jam](https://user-images.githubusercontent.com/93623304/140576939-966ec358-541a-463c-a918-754621744317.mp4)
+
+Guitar: Christian Austin
+Bass: Christian Austin (overdubbed)
+Drums: Reece Austin
+Electric Piano: Bennett Austin
+Organ: Bennett Austin
+
+Written by Bennett, Christian, and Reece Austin
 
 ## Echoes - Pink Floyd Live Improvised Jam
 <p align="center">
