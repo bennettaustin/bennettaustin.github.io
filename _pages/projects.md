@@ -44,7 +44,7 @@ print(RSAEncrypt(message, key_pub()))
 ```
 
 ## Factoring the Product of Two Large Primes
-Having created an RSA cryptosystem, whose security depends on the secrecy of two large prime numbers, it is important to be mindful of attacks that may hack the cryptosystem. Here large means greater than 500 bits, which is about 100 digits. The reason only I am able to decrypt messages sent to me is because my private key N = pq, where p,q are large primes. In general, factoring such a number N is hard, i.e., a computer would take millions of years to figure out one of p or q. Though, there are special cases when N can be factored quickly. 
+Having created an RSA cryptosystem, whose security depends on the secrecy of two large prime numbers, it is important to be mindful of attacks that may hack the cryptosystem. Here large means greater than 500 bits, which is about 100 digits. The reason only I am able to decrypt messages sent to me is because my private key is of the form N = pq, where p,q are large primes. In general, factoring such a number N is hard, i.e., a computer would take millions of years to figure out one of p or q. Though, there are special cases when N can be factored quickly. 
 
 The first method is Pollard's p-1 algorithm, which can factor N = pq quickly so long as p-1 (or q-1) is a product of small prime numbers. For example, I was able to factor N = 523097775055862871433433884291 almost instantly. This is because the largest prime factor of p-1 = 835667525772396 is 9397. Hence, when building an RSA system, ensure that p-1 and q-1 do not factor into small primes. 
 
