@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-![sf](https://user-images.githubusercontent.com/93623304/140600354-4024afe1-5892-4d6b-8e54-f0d8369ad1f1.png)
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/93623304/140600354-4024afe1-5892-4d6b-8e54-f0d8369ad1f1.png" />
+</p>
 
 I am Bennett Austin, a third year mathematics student at [Berkeley](https://math.berkeley.edu/). I am originally from the Metro-Detroit area in Michigan. 
 On this website you can find information about my research, work, projects, and music. 
