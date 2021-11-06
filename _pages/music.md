@@ -51,4 +51,4 @@ Bass: Christian Austin<br/>
 Drums: Reece Austin<br/>
 Organs: Bennett Austin<br/>
 
-Written by Bennett, Christian, and Reece Austin
+Written by Richard Wright, David Gilmour, Roger Waters, and Nick Mason
