@@ -27,7 +27,23 @@ Written by Bennett and Christian Austin
 
 ## Original Song 2
 
+[Song 2](https://user-images.githubusercontent.com/93623304/140599867-05ee1a09-48f1-4bc5-856c-d53a1819a7f6.mp4)
+
+Piano: Bennett Austin<br/>
+Guitar: Christian Austin<br/>
+Bass: Christian Austin<br/>
+Drums: Christian Austin<br/>
+
+Written by Bennett Austin
+
 ## Original Song 3
+
+[Song 3](https://user-images.githubusercontent.com/93623304/140599902-b15c45ef-5a4a-4377-b903-1010416e0ad0.mp4)
+
+Piano: Bennett Austin<br/>
+Bass: Christian Austin<br/>
+
+Written by Bennett Austin
 
 ## Original Live Improvised Jam
 
