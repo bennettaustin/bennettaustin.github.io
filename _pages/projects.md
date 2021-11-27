@@ -14,7 +14,7 @@ I designed a machine learning model that predicts whether or not an employee wil
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/93623304/143722789-317b661c-1ce8-40ea-aff9-4b6e2b3603a3.png" />
-  <img width="360" src="https://user-images.githubusercontent.com/93623304/143722811-7114a8ab-21f0-4d68-9f5c-95eba62bd8fd.png" />
+  <img width="362" src="https://user-images.githubusercontent.com/93623304/143722811-7114a8ab-21f0-4d68-9f5c-95eba62bd8fd.png" />
 </p>
 
 ## Predicting Cancerous Cells
