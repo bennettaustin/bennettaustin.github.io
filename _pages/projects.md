@@ -20,6 +20,15 @@ I designed a machine learning model that predicts whether or not an employee wil
 ## Predicting Cancerous Cells
 I programmed another machine learning model that predicts whether or not a breast cell is cancerous. The dataset was composed of thirty features. These variables describe certain aspects of images of the cells, such as radius, perimeter, area, and concavity. I used a deep neural network to build the classification algorithm. To score this algorithm, I used cross valdiation, which returned an average score of 98.4% on the testing data. The results are shown below. The confusion matrix and classification report give the overall performance of the algorithm and the feature importance plot shows which variables are most influential when deciding if a cell is cancerous. The 0 label refers to a benign cell and the 1 label corresponds to a malignant cell. 
 
+<p align="center">
+  <img width="300" src="https://user-images.githubusercontent.com/93623304/143722875-252a914e-4b9a-4d89-8b66-98d50d956a6d.png" />
+</p>
+
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/93623304/143722882-02c220b1-0455-41c0-9f5c-1d1866e0f50f.png" />
+  <img width="362" src="https://user-images.githubusercontent.com/93623304/143722888-260cb255-989d-46ea-887d-b37f0cfacbd9.png" />
+</p>
+
 ## RSA Cryptography
 RSA is a method of public key cryptography, which allows two people who have never met or talked before to communicate securely over a public server. I programmed an entire RSA cryptosystem from the ground up. The first steps required studying number theory in great detail to develop the tools and theorems that allow RSA to actually function. Such work included proving results about finite fields, primitive roots for Fp*, Euler's theorem for primes p and q, eth roots modulo p, the Miller-Rabin test, and Euler's phi function. From this, RSA can be built by merging several, smaller helper algorithms. These algorithms are as follows: computing exponents modulo some number N, computing the greatest common divisor of two numbers and their Bezout coefficients, converting text to integers and integers to text, solving for the eth root of a number modulo a product of primes, and a large prime number generator. 
 
