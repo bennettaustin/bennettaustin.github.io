@@ -26,7 +26,7 @@ I programmed another machine learning model that predicts whether or not a breas
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/93623304/143722882-02c220b1-0455-41c0-9f5c-1d1866e0f50f.png" />
-  <img width="362" src="https://user-images.githubusercontent.com/93623304/143722888-260cb255-989d-46ea-887d-b37f0cfacbd9.png" />
+  <img width="360" src="https://user-images.githubusercontent.com/93623304/143722888-260cb255-989d-46ea-887d-b37f0cfacbd9.png" />
 </p>
 
 ## RSA Cryptography
