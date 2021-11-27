@@ -8,6 +8,10 @@ author_profile: true
 ## Predicting Employee Attrition
 I designed a machine learning model that predicts whether or not an employee will leave a certain company. The dataset was composed of nine features including salary, time spent at the company, and satisfication level. I used a deep neural network to build the classification algorithm. To score this algorithm, I used cross valdiation, which returned an average score of 97.6% on the testing data. The results are shown below. The confusion matrix and classification report give the overall performance of the algorithm and the feature importance plot shows which variables are most influential when deciding if an employee with leave the company. The 0 label refers to an employee staying and the 1 label corresponds to an employee leaving.
 
+<p align="center">
+  <img width="850" src="https://user-images.githubusercontent.com/93623304/143722789-317b661c-1ce8-40ea-aff9-4b6e2b3603a3.png" />
+</p>
+
 ## Predicting Cancerous Cells
 I programmed another machine learning model that predicts whether or not a breast cell is cancerous. The dataset was composed of thirty features. These variables describe certain aspects of images of the cells, such as radius, perimeter, area, and concavity. I used a deep neural network to build the classification algorithm. To score this algorithm, I used cross valdiation, which returned an average score of 98.4% on the testing data. The results are shown below. The confusion matrix and classification report give the overall performance of the algorithm and the feature importance plot shows which variables are most influential when deciding if a cell is cancerous. The 0 label refers to a benign cell and the 1 label corresponds to a malignant cell. 
 
