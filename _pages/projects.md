@@ -5,6 +5,12 @@ permalink: /projects/
 author_profile: true
 ---
 
+## Predicting Employee Attrition
+I designed a machine learning model that predicts whether or not an employee will leave a certain company. The dataset was composed of nine features including salary, time spent at the company, and satisfication level. I used a deep neural network to build the classification algorithm. To score this algorithm, I used cross valdiation, which returned an average score of 97.6% on the testing data. The results are shown below. The confusion matrix and classification report give the overall performance of the algorithm and the feature importance plot shows which variables are most influential when deciding if an employee with leave the company. The 0 label refers to an employee staying and the 1 label corresponds to an employee leaving.
+
+## Predicting Cancerous Cells
+I programmed another machine learning model that predicts whether or not a breast cell is cancerous. The dataset was composed of thirty features. These variables describe certain aspects of images of the cells, such as radius, perimeter, area, and concavity. I used a deep neural network to build the classification algorithm. To score this algorithm, I used cross valdiation, which returned an average score of 98.4% on the testing data. The results are shown below. The confusion matrix and classification report give the overall performance of the algorithm and the feature importance plot shows which variables are most influential when deciding if a cell is cancerous. The 0 label refers to a benign cell and the 1 label corresponds to a malignant cell. 
+
 ## RSA Cryptography
 RSA is a method of public key cryptography, which allows two people who have never met or talked before to communicate securely over a public server. I programmed an entire RSA cryptosystem from the ground up. The first steps required studying number theory in great detail to develop the tools and theorems that allow RSA to actually function. Such work included proving results about finite fields, primitive roots for Fp*, Euler's theorem for primes p and q, eth roots modulo p, the Miller-Rabin test, and Euler's phi function. From this, RSA can be built by merging several, smaller helper algorithms. These algorithms are as follows: computing exponents modulo some number N, computing the greatest common divisor of two numbers and their Bezout coefficients, converting text to integers and integers to text, solving for the eth root of a number modulo a product of primes, and a large prime number generator. 
 
