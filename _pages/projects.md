@@ -9,12 +9,12 @@ author_profile: true
 I designed a machine learning model that predicts whether or not an employee will leave a certain company. The dataset was composed of nine features including salary, time spent at the company, and satisfication level. I used a deep neural network to build the classification algorithm. To score this algorithm, I used cross valdiation, which returned an average score of 97.6% on the testing data. The results are shown below. The confusion matrix and classification report give the overall performance of the algorithm and the feature importance plot shows which variables are most influential when deciding if an employee with leave the company. The 0 label refers to an employee staying and the 1 label corresponds to an employee leaving.
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/93623304/143722820-ab0f7749-5010-4bb9-a600-88e4f61ae85e.png" />
+  <img width="300" src="https://user-images.githubusercontent.com/93623304/143722820-ab0f7749-5010-4bb9-a600-88e4f61ae85e.png" />
 </p>
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/93623304/143722789-317b661c-1ce8-40ea-aff9-4b6e2b3603a3.png" />
-  <img width="500" src="https://user-images.githubusercontent.com/93623304/143722811-7114a8ab-21f0-4d68-9f5c-95eba62bd8fd.png" />
+  <img width="300" src="https://user-images.githubusercontent.com/93623304/143722811-7114a8ab-21f0-4d68-9f5c-95eba62bd8fd.png" />
 </p>
 
 ## Predicting Cancerous Cells
