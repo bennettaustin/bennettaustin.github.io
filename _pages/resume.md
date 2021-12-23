@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-My resume is [here](https://github.com/bennettaustin/bennettaustin.github.io/blob/master/files/Bennett_Austin_Resume_d.pdf).
+My resume is [here](https://bennettaustin.github.io/files/Bennett_Austin_Resume_d.pdf).
