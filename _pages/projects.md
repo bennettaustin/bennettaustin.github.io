@@ -21,10 +21,7 @@ I designed a machine learning model that predicts whether or not an employee wil
 I created another machine learning model that predicts the credit score of a person. The dataset was composed of ten features. These variables describe certain aspects of the person, such as income, debt, job, and education. I used a random forest regressor to build the regression algorithm. To score this algorithm, I used root mean squared error, which returned an average error of 47.7 on the testing data. We can interpret this as follows: using the algorithm, on average, we can predict one's credit score to within 47.7 of the actual score. Another metric I used was the R2 score, which had a value of 0.85 on the testing data. A major part of this project was finding the optimal max_depth value for the trees in the random forest. To search for this value, I used cross validation and arrived at a max_depth of 5. This value minimized the validation error while also avoiding overfitting. The results are shown below.
 
 <p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/93623304/171717259-a7633f73-c27a-455a-b933-491d62d7841a.png" />
-</p>
-
-<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/93623304/171717259-a7633f73-c27a-455a-b933-491d62d7841a.png" />
   <img width="500" src="https://user-images.githubusercontent.com/93623304/171717529-40882834-a106-49cb-bc98-588b22201658.png" />
 </p>
 
