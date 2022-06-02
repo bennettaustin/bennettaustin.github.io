@@ -17,16 +17,15 @@ I designed a machine learning model that predicts whether or not an employee wil
   <img width="362" src="https://user-images.githubusercontent.com/93623304/143722811-7114a8ab-21f0-4d68-9f5c-95eba62bd8fd.png" />
 </p>
 
-## Predicting Cancerous Cells
-I programmed another machine learning model that predicts whether or not a breast cell is cancerous. The dataset was composed of thirty features. These variables describe certain aspects of images of the cells, such as radius, perimeter, area, and concavity. I used a deep neural network to build the classification algorithm. To score this algorithm, I used cross valdiation, which returned an average score of 98.4% on the testing data. The results are shown below. The confusion matrix and classification report give the overall performance of the algorithm and the feature importance plot shows which variables are most influential when deciding if a cell is cancerous. The confusion matrix was created with the testing data and the feature importance was calculated with the training data. The 0 label refers to a benign cell and the 1 label corresponds to a malignant cell. 
+## Predicting Credit Score
+I created another machine learning model that predicts the credit score of a person. The dataset was composed of ten features. These variables describe certain aspects of the person, such as income, debt, job, and education. I used a random forest regressor to build the regression algorithm. To score this algorithm, I used root mean squared error, which returned an average error of 47.7 on the testing data. We can interpret this as follows: using the algorithm, on average, we can predict one's credit score to within 47.7 of the actual score. Another metric I used was the R2 score, which had a value of 0.85 on the testing data. A major part of this project was finding the optimal max_depth value for the trees in the random forest. To search for this value, I used cross validation and arrived at a max_depth of 5. This value minimized the validation error while also avoiding overfitting. The results are shown below.
 
 <p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/93623304/143722875-252a914e-4b9a-4d89-8b66-98d50d956a6d.png" />
+  <img width="300" src="https://user-images.githubusercontent.com/93623304/171717259-a7633f73-c27a-455a-b933-491d62d7841a.png" />
 </p>
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/93623304/143722882-02c220b1-0455-41c0-9f5c-1d1866e0f50f.png" />
-  <img width="360" src="https://user-images.githubusercontent.com/93623304/143722888-260cb255-989d-46ea-887d-b37f0cfacbd9.png" />
+  <img width="500" src="https://user-images.githubusercontent.com/93623304/171717529-40882834-a106-49cb-bc98-588b22201658.png" />
 </p>
 
 ## RSA Cryptography
