@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Bennett Austin"
   avatar           : "headshot.JPG"
-  bio              : "Math Student at the University of California, Berkeley"
+  bio              : >
+                    Math Student at the University of California, Berkeley
+                    AI and Data Science Summer Analyst at JP Morgan
   location         : "Chicago, IL"
   employer         : "AI and Data Science Summer Analyst at JP Morgan"
   email            : "bennettaustin10@berkeley.edu"
