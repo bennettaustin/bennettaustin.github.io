@@ -11,6 +11,7 @@ bass, guitar, and drums. My brothers and I have written many songs ranging from 
 ## Our Basement Studio
 <p align="center">
   <img width="350" src="https://user-images.githubusercontent.com/93623304/140553083-47784a00-a9e0-4e13-91c1-ecfec21c87c2.png" />
+  <img width="350" src="https://user-images.githubusercontent.com/93623304/179870293-00eb3510-b68b-4ab5-a285-1e6aa67a54e8.png" />
 </p>
 
 ## Original Song 1
