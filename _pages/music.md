@@ -75,7 +75,7 @@ Keyboard: Bennett Austin<br/>
 Written by Herbie Hancock
 
 ## Echoes - Pink Floyd Live Improvised Jam
-[Link to video]("https://www.youtube.com/77H_VFMou3U")
+[Link to video](https://www.youtube.com/watch?v=77H_VFMou3U&ab_channel=BennettAustin)
 
 Guitar: Christian Austin (overdubbed)<br/>
 Bass: Christian Austin<br/>
