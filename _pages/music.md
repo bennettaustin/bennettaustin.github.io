@@ -58,9 +58,7 @@ Organ: Bennett Austin<br/>
 Written by Bennett, Christian, and Reece Austin
 
 ## New Potato Caboose - Grateful Dead Live Improvised Jam
-<p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=exDt-MGK2tU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+[Link to video]("https://www.youtube.com/watch?v=exDt-MGK2tU")
 
 Guitar: Christian Austin<br/>
 Drums: Reece Austin<br/>
@@ -69,9 +67,7 @@ Organ: Bennett Austin<br/>
 Written by Grateful Dead
 
 ## Watermelon Man - Herbie Hancock (Head Hunters) Live Improvised Jam
-<p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=pI6-F1PNA0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+[Link to video]("https://www.youtube.com/watch?v=pI6-F1PNA0c")
 
 Drums: Christian Austin<br/>
 Keyboard: Bennett Austin<br/>
@@ -79,9 +75,7 @@ Keyboard: Bennett Austin<br/>
 Written by Herbie Hancock
 
 ## Echoes - Pink Floyd Live Improvised Jam
-<p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/77H_VFMou3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+[Link to video]("https://www.youtube.com/embed/77H_VFMou3U")
 
 Guitar: Christian Austin (overdubbed)<br/>
 Bass: Christian Austin<br/>
