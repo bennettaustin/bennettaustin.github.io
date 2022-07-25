@@ -58,7 +58,7 @@ Organ: Bennett Austin<br/>
 Written by Bennett, Christian, and Reece Austin
 
 ## New Potato Caboose - Grateful Dead Live Improvised Jam
-[Link to video]("https://www.youtube.com/watch?v=exDt-MGK2tU")
+[Link to video]("https://www.youtube.com/watch?v=exDt-MGK2tU&ab_channel=BennettAustin")
 
 Guitar: Christian Austin<br/>
 Drums: Reece Austin<br/>
@@ -67,7 +67,7 @@ Organ: Bennett Austin<br/>
 Written by Grateful Dead
 
 ## Watermelon Man - Herbie Hancock (Head Hunters) Live Improvised Jam
-[Link to video]("https://www.youtube.com/watch?v=pI6-F1PNA0c")
+[Link to video]("https://www.youtube.com/watch?v=pI6-F1PNA0c&ab_channel=BennettAustin")
 
 Drums: Christian Austin<br/>
 Keyboard: Bennett Austin<br/>
@@ -83,5 +83,3 @@ Drums: Reece Austin<br/>
 Organs: Bennett Austin<br/>
 
 Written by Richard Wright, David Gilmour, Roger Waters, and Nick Mason
-
-[Berkeley](https://math.berkeley.edu/)
