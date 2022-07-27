@@ -28,7 +28,7 @@ I created another machine learning model that predicts the credit score of a per
 </p>
 
 ## c. Predicting Term Deposits
-Please see [this](https://github.com/bennettaustin/files/UGBA%20137%20Final%20Deck.pdf) presentation for details.
+Please see [this](https://bennettaustin.github.io/files/UGBA%20137%20Final%20Deck.pdf) presentation for details.
 
 # 2. Number Theory
 
