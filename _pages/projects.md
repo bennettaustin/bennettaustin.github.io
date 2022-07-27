@@ -5,7 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Predicting Employee Attrition
+# 1. Data Science
+
+## a. Predicting Employee Attrition
 I designed a machine learning model that predicts whether or not an employee will leave a certain company. The dataset was composed of nine features including salary, time spent at the company, and satisfication level. I used a deep neural network to build the classification algorithm. To score this algorithm, I used cross valdiation, which returned an average score of 97.6% on the testing data. The results are shown below. The confusion matrix and classification report give the overall performance of the algorithm and the feature importance plot shows which variables are most influential when deciding if an employee with leave the company. The confusion matrix was created with the testing data and the feature importance was calculated with the training data. The 0 label refers to an employee staying and the 1 label corresponds to an employee leaving.
 
 <p align="center">
@@ -17,7 +19,7 @@ I designed a machine learning model that predicts whether or not an employee wil
   <img width="362" src="https://user-images.githubusercontent.com/93623304/143722811-7114a8ab-21f0-4d68-9f5c-95eba62bd8fd.png" />
 </p>
 
-## Predicting Credit Score
+## b. Predicting Credit Score
 I created another machine learning model that predicts the credit score of a person. The dataset was composed of ten features. These variables describe certain aspects of the person, such as income, debt, job, and education. I used a random forest regressor to build the algorithm. One metric I used was root mean squared error, which returned an average error of 47.7 on the testing data. We can interpret this as follows: using the algorithm, on average, we can predict one's credit score to within 47.7 of the actual score. Another metric I used was the R2 score, which had a value of 0.85 on the testing data. A major part of this project was finding the optimal max_depth value for the trees in the random forest. To search for this value, I used cross validation and arrived at a max_depth of 5. This value minimized the validation error while also avoiding overfitting. The results are shown below.
 
 <p align="center">
@@ -25,7 +27,12 @@ I created another machine learning model that predicts the credit score of a per
   <img width="400" src="https://user-images.githubusercontent.com/93623304/171720087-8b6d8283-9cee-4baa-b40b-74b595db799e.png" />
 </p>
 
-## RSA Cryptography
+## c. Predicting Term Deposits
+See [this]() presentation for details
+
+# 2. Number Theory
+
+## a. RSA Cryptography
 RSA is a method of public key cryptography, which allows two people who have never met or talked before to communicate securely over a public server. I programmed an entire RSA cryptosystem from the ground up. The first steps required studying number theory in great detail to develop the tools and theorems that allow RSA to actually function. Such work included proving results about finite fields, primitive roots for Fp*, Euler's theorem for primes p and q, eth roots modulo p, the Miller-Rabin test, and Euler's phi function. From this, RSA can be built by merging several, smaller helper algorithms. These algorithms are as follows: computing exponents modulo some number N, computing the greatest common divisor of two numbers and their Bezout coefficients, converting text to integers and integers to text, solving for the eth root of a number modulo a product of primes, and a large prime number generator. 
 
 If you have a way of running Python code ([here is an online compiler if you need one](https://www.online-python.com/)), run the following code to send me a message that only I can decrypt and read. All you have to do is copy and paste the code below and then in the last line of code replace "message" with your message in quotes. Copy the output and email it to me. Note: if you wish to send a longer message (i.e. > two sentences), then break up the message and run the code with parts of the message. For example, a five sentence message should be sent by running the code for each sentence and then sending each of the five outputs in one email. 
@@ -63,7 +70,7 @@ print(RSAEncrypt(message, key_pub()))
 
 ```
 
-## Factoring the Product of Two Large Primes
+## b. Factoring the Product of Two Large Primes
 Having created an RSA cryptosystem, whose security depends on the secrecy of two large prime numbers, it is important to be mindful of attacks that may hack the cryptosystem. Here large means greater than 500 bits, which is about 100 digits. The reason only I am able to decrypt messages sent to me is because my private key is of the form N = pq, where p,q are large primes. In general, factoring such a number N is hard, i.e., a computer would take millions of years to figure out one of p or q. Though, there are special cases when N can be factored quickly. 
 
 The first method is Pollard's p-1 algorithm, which can factor N = pq quickly so long as p-1 (or q-1) is a product of small prime numbers. For example, I was able to factor N = 523097775055862871433433884291 almost instantly. This is because the largest prime factor of p-1 = 835667525772396 is 9397. Hence, when building an RSA system, ensure that p-1 and q-1 do not factor into small primes. 
